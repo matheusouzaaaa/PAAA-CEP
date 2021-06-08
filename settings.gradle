@@ -1,0 +1,2 @@
+rootProject.name = "ApiViaCEP"
+include ':app'
